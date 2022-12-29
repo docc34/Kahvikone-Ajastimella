@@ -1,11 +1,5 @@
 Kahvikone Ajastimella
 
-Kuvaus: 
-Projektin idea on aika simppeli. Halusin kahvia aina valmiiksi aamulla kun minulla on her√§tys. Toteutin projektin muokkaamalla omaa kahvinkeitint√§ni arduinolla. Kahvinkeitin toimii niinkuin normaalisti mutta lis√§ykseni kautta voidaan m√§√§ritt√§√§ jokin kellonaika milloin kahvinkeitin alkaa automaattisesti keitt√§m√§√§n kahvia. H√§lytyksen voi tietenkin laittaa pois p√§√§lt√§, jotta keitin ei keit√§ itsest√§√§n joka aamu.
+Projektin idea on aika simppeli. Halusin kahvia aina valmiiksi aamulla kun minulla on her‰tys. Projektissa oli useita kehitysvaiheita 4 digit 7 segment ruuduilla ja ledeill‰, mutta olen tyytyv‰inen t‰h‰n versioon. Ainut parannettava laitteessa olisi kaiken virran saaminen kahvinkeittimest‰. T‰ll‰ hetkell‰ arduino kyll‰ pyˆrii pelk‰ll‰ kahvinkoneen virralla mutta kun keitt‰minen alkaa systeemi kyykk‰‰ ilman usb:st‰ saatua lis‰virtaa.
 
-Laiteluettelo: 
--Arduino leonardo r3
--GME12864-12 0.96'4P Oled screen
--Button
--1000 ohm potentiometer
--SSD1306 RTC module
+Repossa on dokumentointi kahvinkeittimelle
